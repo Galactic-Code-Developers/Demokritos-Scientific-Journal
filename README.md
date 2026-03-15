@@ -103,6 +103,7 @@ Authors who prefer a free publication path may publish through the journal using
 - Article published on the journal platform
 
 This model ensures that all researchers have a publication path, whether they choose a journal-issued DOI or the free Zenodo option.
+
 ---
 ## Publication Fees and DOI Options
 
