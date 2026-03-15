@@ -160,6 +160,7 @@ Future development includes:
 
 - large-scale equation indexing  
 - global research collaboration networks  
-- advanced discovery tools for scientific literature  
+- advanced discovery tools for scientific literature
+- Self-Driving Quantum Collider Laboratory (SQCL) 
 
 The goal is to transform scientific publishing into a collaborative knowledge ecosystem.
