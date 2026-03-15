@@ -84,6 +84,26 @@ The **Demokritos Open Research Fellowship** invites participation from:
 Fellows collaborate on research projects, participate in peer review, and contribute to the journal’s open science community.
 
 ---
+## Publication and DOI Policy
+
+Demokritos Scientific Journal supports both paid and free publication paths.
+
+### Option 1 — Journal-Issued DOI
+Authors who want a DOI issued directly through the journal may choose this option.
+
+- Fee: **$25**
+- DOI issued through the journal
+- Article published on the journal platform
+
+### Option 2 — Free Publication with Zenodo DOI
+Authors who prefer a free publication path may publish through the journal using a **Zenodo DOI**.
+
+- Fee: **$0**
+- DOI provided through **Zenodo**
+- Article published on the journal platform
+
+This model ensures that all researchers have a publication path, whether they choose a journal-issued DOI or the free Zenodo option.
+---
 ## Publication Fees and DOI Options
 
 Demokritos Scientific Journal provides two publication options.
