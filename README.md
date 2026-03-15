@@ -84,22 +84,25 @@ The **Demokritos Open Research Fellowship** invites participation from:
 Fellows collaborate on research projects, participate in peer review, and contribute to the journal’s open science community.
 
 ---
+## Publication Fees and DOI Options
 
-## Publication Fees
+Demokritos Scientific Journal provides two publication options.
 
-The journal follows a **flexible publication model**.
+### Journal-Issued DOI
+Authors who prefer a DOI issued directly through the journal may choose this route.
 
-Authors may pay a small publication fee to cover infrastructure costs such as DOI registration and hosting.
+- **$25 publication fee**
+- DOI issued through the journal
+- Article published on the journal platform
 
-However, **financial limitations should never prevent publication**.
+### Free Publication via Zenodo
+Authors who prefer a free option may publish using a Zenodo DOI.
 
-Fee waivers are available for:
+- **$0 fee**
+- DOI provided through **Zenodo**
+- Article published on the journal platform
 
-- students
-- independent researchers
-- authors without institutional support
-
-Sponsors help support these waivers.
+This approach allows the journal to remain open and accessible while also giving authors the choice of a direct journal DOI or a free Zenodo-based publication path.
 
 ---
 
@@ -121,13 +124,13 @@ These tools transform the journal into a **research discovery platform**, not ju
 
 Sponsor contributions help support:
 
-- open access publishing
-- student publication waivers
-- research infrastructure development
-- global scientific collaboration
+- free publication through the Zenodo DOI pathway
+- development of the journal platform
+- the Young Scientists Section for high-school researchers
+- open scientific publishing infrastructure
+- research discovery tools such as the Equation Index of Physics and Physics Knowledge Graph
 
-Sponsors are acknowledged publicly while **editorial independence is strictly protected**.
-
+Sponsors are acknowledged publicly, while editorial independence remains strictly protected.
 ---
 
 ## Roadmap
